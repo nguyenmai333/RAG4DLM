@@ -5,10 +5,12 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 import chromadb
 from transformers import T5ForConditionalGeneration, T5Tokenizer
+from config import *
 #--init--
-EMBEDDING_MODEL = "hiieu/halong_embedding"
-client = chromadb.Client()
+# Create the client with persistence
+client = chromadb.PersistentClient(path=PERSIST_DIRECTORY)
 collection = client.create_collection(name="documents")
+
 #--init--
 def chunk_text(text, chunk_size = 100, overlap = 20):
     def word_count(s):

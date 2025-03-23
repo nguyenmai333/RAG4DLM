@@ -19,7 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+chroma_db
 # Virtual Environment
 venv/
 env/

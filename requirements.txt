@@ -1,0 +1,7 @@
+beautifulsoup4 
+langchain 
+sentence-transformers 
+chromadb 
+transformers 
+torch
+crawl4ai

@@ -1,0 +1,88 @@
+[ ![](https://mybk.hcmut.edu.vn/images/logo.png) ](https://mybk.hcmut.edu.vn/)
+  * NGÔN NGỮ  [![](https://mybk.hcmut.edu.vn/images/icon_lag_vietnam.png)](https://mybk.hcmut.edu.vn/index.action?locale=vi) [![](https://mybk.hcmut.edu.vn/images/icon_lag_english.png)](https://mybk.hcmut.edu.vn/index.action?locale=en)
+  * CHIA SẺ 
+
+
+  * [TRANG CHỦ ](https://mybk.hcmut.edu.vn/index.action)
+
+
+[Đăng nhập](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) | [Hướng dẫn người dùng ](http://wiki.hcmut.edu.vn/index.php/My_B%C3%A1ch_Khoa)
+### [ ỨNG DỤNG CHUNG ](https://mybk.hcmut.edu.vn/homeSSO.action)
+  * ![](https://mybk.hcmut.edu.vn/images/upload/bk_60y.png)
+[1. Cựu sinh viên ](https://mybk.hcmut.edu.vn/app%20) Cựu sinh viên Đại học, Sau đại học (Ths, TS) 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_bkpay.png)
+[2. BKPay ](http://bkpay.hcmut.edu.vn) Cổng thanh toán trực tuyến: theo dõi thu nhập cá nhân, thanh toán học phí 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_bk_e-learning.png)
+[3. Bách Khoa e-learning ](https://lms.hcmut.edu.vn/) Hệ thống e-learning của ĐHBK Tp.HCM 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_stinfo.png)
+[4. Thông tin Sinh viên ](http://mybk.hcmut.edu.vn/stinfo/) Tra cứu, cập nhật thông tin Sinh viên, tra cứu TKB, lịch thi, ... GVCN/Khoa theo dõi lớp, ... 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_hdnksv.png)
+[5. Hoạt động Ngoại khóa SV ](http://mybk.hcmut.edu.vn/hdsv/page/trang-chu-hd.aspx) Sàn hoạt động ngoại khóa của SV 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_QA-again.png)
+[6. Hỗ trợ trực tuyến ](http://mybk.hcmut.edu.vn/bksi) Hổ trợ trực tuyến các vấn đề về học vụ, ... 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/bkenglish_logo.png)
+[7. Đăng ký Anh văn Kỹ năng Nói-Viết ](http://mybk.hcmut.edu.vn/bke) Đăng ký Dự Kiểm tra Anh văn Kỹ năng Nói-Viết - Điều kiện Tốt nghiệp (BKEnglish) 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_email.png)
+[8. Email ](http://mail.hcmut.edu.vn/) Hệ thống e-mail của trường ĐHBK Tp.HCM 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_tra-bang-tn.png)
+[9. Tra cứu Văn bằng Tốt nghiệp SV ](http://www.aao.hcmut.edu.vn/index.php?route=search/travanbangtn) Tra cứu văn bằng tốt nghiệp do nhà trường cấp 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_tuyensinh.png)
+[10. Đăng ký xét tuyển ĐH-CĐ ](http://mybk.hcmut.edu.vn/tuyensinh/) Thí sinh đăng ký dự tuyển ĐH-CĐ vào trường ĐH Bách Khoa 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_nhaphoc.png)
+[11. Nhập học ](http://mybk.hcmut.edu.vn/tuyensinh/) LL nhập học, kích hoạt BKNetID 
+  * ![](https://mybk.hcmut.edu.vn/images/no-image.gif)
+[12. Đăng ký mua sách, giáo trình ](http://mybk.hcmut.edu.vn/bookstore) Đăng ký mua sách, giáo trình 
+
+
+### [ỨNG DỤNG CHO GIẢNG VIÊN ](https://mybk.hcmut.edu.vn/homeSSO.action)
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_htgd.png)
+[1. Hỗ trợ Giảng dạy ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Giảng viên xem TKB, đăng ký nghỉ dạy/dạy bù/dạy thay 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_nhapdiem.png)
+[2. Nhập điểm trực tuyến ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Giảng viên nhập điểm trực tuyến từ 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_klgd.png)
+[3. Hỗ trợ Quản lý Giảng dạy ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Hệ thống hổ trợ Phân công giảng dạy, Khối lượng giảng dạy, ... 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_dashboard.png)
+[4. Dashboard ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Theo dõi tình hình hoạt động nhà trường 
+  * ![](https://mybk.hcmut.edu.vn/images/no-image.gif)
+[5. CTDT và ĐCMH trực tuyến ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Chương trìn đào tạo và Đề cương môn học trực tuyến 
+  * ![](https://mybk.hcmut.edu.vn/images/no-image.gif)
+[6. Đăng ký coi thi ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký coi thi/kiểm tra 
+
+
+### [ỨNG DỤNG CHO SINH VIÊN ](https://mybk.hcmut.edu.vn/homeSSO.action)
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_dkmhcq.png)
+[1. Đăng ký Môn học ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký Kế hoạch học tập, Đăng ký môn học, ... 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_thesv.png)
+[2. Đăng ký in Thẻ Sinh viên ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký in thẻ Sinh viên mới khi bị mất thẻ 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_bangdiem.png)
+[3. Đăng ký in Bảng điểm ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký in bảng điểm (Bảng điểm chưa tốt nghiệp, Học bạ) 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_xetcc.png)
+[4. Đăng ký nộp Chứng chỉ Ngoại ngữ ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký thông tin chứng chỉ ngoại ngữ để đăng ký chuyển điểm các môn Ngoại ngữ (AV1,AV2,AV3,AV4) hoặc để thỏa điều kiện nhận LVTN, điều kiện Tốt nghiệp 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_dkxnsv.png)
+[5. Đăng ký in Giấy xác nhận SV ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký in Giấy xác nhận SV dùng hoàn tất hồ sơ tạm hoãn NVQS tại địa phương hoặc các công việc khác. 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_tn.png)
+[6. Đăng ký Tốt nghiệp ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Sinh viên đăng ký tốt nghiệp, khai báo Lý lịch tốt nghiệp. Các SV không đăng ký Tốt nghiệp sẽ không được cấp Quyết định Tốt nghiệp, cấp Bằng. 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_grade_recheck.png)
+[7. Đăng ký Phúc tra điểm bài thi cuối kỳ ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký Phúc tra điểm bài thi cuối kỳ 
+  * ![](https://mybk.hcmut.edu.vn/images/upload/app_bhyt.png)
+[8. Đăng ký Tham gia BHYT, BHTN SV ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký Tham gia Bảo hiểm Y tế, Bảo hiểm Tai nạn của Sinh viên 
+  * ![](https://mybk.hcmut.edu.vn/images/no-image.gif)
+[9. Đăng ký kiểm tra trình độ tiếng Anh ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký kiểm tra trình độ tiếng Anh 
+  * ![](https://mybk.hcmut.edu.vn/images/no-image.gif)
+[10. Đăng ký hoãn thi cuối kì ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký hoãn thi cuối kì 
+  * ![](https://mybk.hcmut.edu.vn/images/no-image.gif)
+[11. Rút môn học ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Rút môn học 
+  * ![](https://mybk.hcmut.edu.vn/images/no-image.gif)
+[12. Đăng ký thông tin văn bằng ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Đăng ký thông tin văn bằng 
+  * ![](https://mybk.hcmut.edu.vn/images/no-image.gif)
+[13. Chứng chỉ công nghệ thông tin ](https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action) Certificate of Information Technology 
+
+
+Copyright@2014. Phòng Đào tạo - Đại học Bách Khoa TPHCM.
+  * [facebook](https://mybk.hcmut.edu.vn/)
+  * [pintrest](https://mybk.hcmut.edu.vn/)
+  * [google](https://mybk.hcmut.edu.vn/)
+  * [twitter](https://mybk.hcmut.edu.vn/)
+  * [linkedin](https://mybk.hcmut.edu.vn/)
+
+

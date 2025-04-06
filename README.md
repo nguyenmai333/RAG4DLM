@@ -11,7 +11,14 @@
 
 ## 📦 Installation
 
-First, install the required Python packages:
+First, create a `.env` file in the root directory:
+
+```bash
+OPENAI_API_KEY=your_api_key_here
+```
+
+Then, install the required Python packages:
+
 
 ```bash
 pip install -r requirements.txt
@@ -37,9 +44,9 @@ python crawler.py
 python ./LLM/rag.py
 ```
 
-3. **Query Interface**
+3. **Chatbot Interface**
 ```bash
-python query.py
+streamlit run app.py
 ```
 
 ## 📝 License

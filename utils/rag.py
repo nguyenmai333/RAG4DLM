@@ -1,14 +1,13 @@
 import os 
-import re
-from bs4 import BeautifulSoup
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 import chromadb
-from transformers import T5ForConditionalGeneration, T5Tokenizer
-from config import *
+from .config import *
 #--init--
 # Create the client with persistence
 client = chromadb.PersistentClient(path=PERSIST_DIRECTORY)
+if client.get_collection(name="documents") is not None:
+    client.delete_collection(name="documents")
 collection = client.create_collection(name="documents")
 
 #--init--
@@ -48,9 +47,7 @@ def build_rag_system(documents, chunk_size=100, overlap = 20):
     )
 
 if __name__ == "__main__":
-    # Load documents from the specified directory
     document_directory = 'data'
     documents = load_documents(document_directory)
-    # Chunk the documents
     build_rag_system(documents, chunk_size=100, overlap=20)
 

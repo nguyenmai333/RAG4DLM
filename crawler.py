@@ -1,7 +1,8 @@
 import asyncio
 from crawl4ai import *
 import os
-URL_BASE = 'https://hcmut.edu.vn/'
+from utils import WEB_BASE
+URL_BASE = WEB_BASE
 
 os.makedirs('data', exist_ok=True)
 

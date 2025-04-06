@@ -5,3 +5,5 @@ chromadb
 transformers 
 torch
 crawl4ai
+streamlit
+openai

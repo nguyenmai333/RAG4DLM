@@ -2,7 +2,7 @@ import os
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 import chromadb
-from .config import *
+from config import *
 #--init--
 # Create the client with persistence
 client = chromadb.PersistentClient(path=PERSIST_DIRECTORY)

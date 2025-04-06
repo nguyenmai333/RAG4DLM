@@ -6,8 +6,15 @@ from config import *
 #--init--
 # Create the client with persistence
 client = chromadb.PersistentClient(path=PERSIST_DIRECTORY)
-if client.get_collection(name="documents") is not None:
-    client.delete_collection(name="documents")
+
+try:
+    collection = client.get_collection(name="documents")
+    if collection:
+        client.delete_collection(name="documents")
+except Exception:
+    pass
+
+# Create fresh collection
 collection = client.create_collection(name="documents")
 
 #--init--

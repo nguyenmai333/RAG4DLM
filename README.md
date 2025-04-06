@@ -41,7 +41,7 @@ python crawler.py
 
 2. **RAG Processing**
 ```bash
-python ./LLM/rag.py
+python ./utils/rag.py
 ```
 
 3. **Chatbot Interface**

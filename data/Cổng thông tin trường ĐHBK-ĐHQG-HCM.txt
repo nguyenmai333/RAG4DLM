@@ -1,8 +1,8 @@
 [![](https://hcmut.edu.vn/img/logo.jpg?t=26899198) ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC BÁCH KHOA ](https://hcmut.edu.vn/)
-[SINH VIÊN](https://hcmut.edu.vn/student-page)[GIẢNG VIÊN VÀ CÁN BỘ](https://hcmut.edu.vn/user)[CỰU SINH VIÊN](https://bka.hcmut.edu.vn/)[LIÊN HỆ](https://hcmut.edu.vn/contact)[](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)![](https://hcmut.edu.vn/img/flag/en.png?t=2)![](https://hcmut.edu.vn/img/home.png?t=2)
+[SINH VIÊN](https://hcmut.edu.vn/student-page)[GIẢNG VIÊN VÀ CÁN BỘ](https://hcmut.edu.vn/user)[CỰU SINH VIÊN](https://bka.hcmut.edu.vn/)[LIÊN HỆ](https://hcmut.edu.vn/contact)[](https://hcmut.edu.vn/user)![](https://hcmut.edu.vn/img/flag/en.png?t=2)![](https://hcmut.edu.vn/img/home.png?t=2)
 [![](https://hcmut.edu.vn/img/logo.jpg?t=26899198) ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC BÁCH KHOA ](https://hcmut.edu.vn/)
   * [](https://hcmut.edu.vn/)
-  * [Giới thiệu](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+  * [Giới thiệu](https://hcmut.edu.vn/request-login)
     * [Thông điệp của Hiệu trưởng](https://hcmut.edu.vn/thong-diep-cua-hieu-truong)
     * [Kế hoạch chiến lược](https://hcmut.edu.vn/gioi-thieu/ke-hoach-chien-luoc)
     * [Ba công khai](https://hcmut.edu.vn/ba-cong-khai)
@@ -12,12 +12,12 @@
     * [Thành tựu kiểm định](https://hcmut.edu.vn/gioi-thieu/thanh-tuu-kiem-dinh)
     * [Bộ nhận diện thương hiệu](https://hcmut.edu.vn/gioi-thieu/nhan-dien-thuong-hieu)
     * [Thư viện](https://hcmut.edu.vn/library-page)
-  * [Tuyển sinh](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+  * [Tuyển sinh](https://hcmut.edu.vn/request-login)
     * [Tuyển sinh Đại học](https://hcmut.edu.vn/tuyen-sinh-dh/dai-hoc-chinh-quy)
     * [Tuyển sinh Sau đại học](https://hcmut.edu.vn/tuyen-sinh/sau-dai-hoc)
     * [Tuyển sinh đào tạo quốc tế](https://oisp.hcmut.edu.vn/)
     * [Tuyển sinh Bằng 2, Vừa làm Vừa học, Đào tạo từ xa](https://hcmut.edu.vn/tuyen-sinh-dh/dai-hoc-bang-2)
-  * [Đào tạo](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+  * [Đào tạo](https://hcmut.edu.vn/request-login)
     * [Quy chế - Quy định](https://hcmut.edu.vn/dao-tao/quy-che-quy-dinh)
     * [Chương trình đào tạo](https://hcmut.edu.vn/dao-tao/chuong-trinh-dao-tao)
     * [Học phí](https://hcmut.edu.vn/dao-tao/hoc-phi)
@@ -26,7 +26,7 @@
     * [MyBK](https://mybk.hcmut.edu.vn/)
     * [Quy trình hướng dẫn](https://mybk.hcmut.edu.vn/bksi/public/vi/)
     * [Tra cứu văn bằng Sau Đại học](http://pgs.hcmut.edu.vn/vi/thac-si/tra-cuu/tra-cuu-van-bang)
-  * [Sinh viên](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+  * [Sinh viên](https://hcmut.edu.vn/request-login)
     * [Hỗ trợ sinh viên](https://hcmut.edu.vn/sinh-vien/ho-tro-sinh-vien)
     * [Quyết định - Quy Định](https://hcmut.edu.vn/sinh-vien/quyet-dinh-quy-dinh)
     * [Công tác sinh viên](https://hcmut.edu.vn/sinh-vien/cong-tac-sinh-vien)
@@ -35,14 +35,14 @@
     * [Giải thưởng sinh viên](https://hcmut.edu.vn/giai-thuong-sinh-vien)
     * [Y tế học đường](https://hcmut.edu.vn/y-te-hoc-duong)
     * [Thông tin Ký túc xá (Quận 10)](https://hcmut.edu.vn/ktx-quan-10)
-  * [Nghiên cứu](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+  * [Nghiên cứu](https://hcmut.edu.vn/request-login)
     * [Tổng quan](https://hcmut.edu.vn/nghien-cuu/tong-quan)
     * [Hồ sơ năng lực](https://hcmut.edu.vn/ho-so-nang-luc)
     * [Đơn vị nghiên cứu](https://hcmut.edu.vn/nghien-cuu/trung-tam-nghien-cuu)
     * [Hoạt động Khoa học Công nghệ và Đổi mới sáng tạo](https://hcmut.edu.vn/hoat-dong-doi-moi-sang-tao)
     * [Tạp chí khoa học công nghệ ](https://hcmut.edu.vn/nghien-cuu/tap-chi)
     * [Hội nghị - Hội thảo](https://conferences.hcmut.edu.vn)
-  * [Hợp tác](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+  * [Hợp tác](https://hcmut.edu.vn/request-login)
     * Hợp tác quốc tế
     * [Doanh nghiệp](https://hcmut.edu.vn/hop-tac/doanh-nghiep-quoc-te)
     * [Đối tác học thuật](https://hcmut.edu.vn/hop-tac/doi-tac-hoc-thuat-quoc-te)
@@ -54,7 +54,7 @@
     * [Mạng lưới quốc tế](https://hcmut.edu.vn/hop-tac/mang-luoi-quoc-te)
     * [Mạng lưới trong nước](https://hcmut.edu.vn/hop-tac/mang-luoi-trong-nuoc)
     * [Địa phương](https://hcmut.edu.vn/hop-tac/dia-phuong)
-  * [Tuyển dụng](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+  * [Tuyển dụng](https://hcmut.edu.vn/request-login)
     * [Tuyển dụng của Trường Đại học Bách khoa](https://hcmut.edu.vn/danh-sach-thong-tin-tuyen-dung)
     * [Tuyển dụng sinh viên](https://ssc.hcmut.edu.vn/lien-he)
   * [Tham quan ảo](https://hcmut.edu.vn/virtual-tour)
@@ -63,11 +63,16 @@
     * [GIẢNG VIÊN VÀ CÁN BỘ](https://hcmut.edu.vn/user)
     * [CỰU SINH VIÊN](https://bka.hcmut.edu.vn/)
     * [LIÊN HỆ](https://hcmut.edu.vn/contact)
-  * [](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)![](https://hcmut.edu.vn/img/flag/en.png?t=2)
+  * [](https://hcmut.edu.vn/user)![](https://hcmut.edu.vn/img/flag/en.png?t=2)
 
 
-* * *
-* * *
+### Bạn cần phải đăng nhập để thực hiện quá trình này
+[![HCMUT Logo](https://hcmut.edu.vn/img/bk.png) Đăng nhập với tài khoản HCMUT](https://hcmut.edu.vn/auth/cas?route=/user)
+[Hoặc đăng nhập với tài khoản khác](https://hcmut.edu.vn/user)
+Email
+Mật khẩu
+Đăng nhập
+[Quên mật khẩu?](https://hcmut.edu.vn/user)
 * * *
 * * *
 ![logo](https://hcmut.edu.vn/img/logo.jpg?t=26899198)
@@ -84,10 +89,10 @@ Biểu mẫu thông tin liên hệ
 LIÊN KẾT MẠNG XÃ HỘI
 [![](https://hcmut.edu.vn/img/icon-facebook.png)](https://www.facebook.com/truongdhbachkhoa)[![](https://hcmut.edu.vn/img/icon-instagram.png)](https://www.instagram.com/truongdaihocbachkhoa.1957/)[![](https://hcmut.edu.vn/img/logoYoutube.png?t=16043255)](https://www.youtube.com/@truongdhbachkhoa)[![](https://hcmut.edu.vn/img/logoLinkedIn.svg?t=16242128)](https://www.linkedin.com/school/hcmut-bachkhoa)[![](https://hcmut.edu.vn/img/logoTiktok.png?t=33056334)](https://www.tiktok.com/@tuyensinhbachkhoahcm)
 Bản quyền thuộc Trường Đại học Bách khoa - ĐHQG-HCM
-LƯỢT TRUY CẬP52,754,741
+LƯỢT TRUY CẬP53,227,542
 Đăng nhập
-[![HCMUT Logo](https://hcmut.edu.vn/img/bk.png) Đăng nhập với tài khoản HCMUT](https://hcmut.edu.vn/auth/cas)[Hoặc đăng nhập bằng tài khoản khác](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+[![HCMUT Logo](https://hcmut.edu.vn/img/bk.png) Đăng nhập với tài khoản HCMUT](https://hcmut.edu.vn/auth/cas)[Hoặc đăng nhập bằng tài khoản khác](https://hcmut.edu.vn/user)
 Đăng nhập
-[Quên mật khẩu?](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc)
+[Quên mật khẩu?](https://hcmut.edu.vn/user)
 Đóng
-[](https://hcmut.edu.vn/doi-tac-hoc-thuat-trong-nuoc#top)
+[](https://hcmut.edu.vn/user#top)

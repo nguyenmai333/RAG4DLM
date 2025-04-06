@@ -34,7 +34,7 @@ python crawler.py
 
 2. **RAG Processing**
 ```bash
-python rag.py
+python ./LLM/rag.py
 ```
 
 3. **Query Interface**

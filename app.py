@@ -60,7 +60,7 @@ def main():
         try:
             with st.spinner("Generating response..."):
                 llm = LLM(
-                    model_name="gpt-4o",  # Use correct model name
+                    model_name="gpt-4o-mini",  # Use correct model name
                     api_key=os.getenv("OPENAI_API_KEY")
                 )
                 message_placeholder = st.empty()

@@ -7,3 +7,4 @@ torch
 crawl4ai
 streamlit
 openai
+accelerate

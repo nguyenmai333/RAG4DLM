@@ -4,10 +4,9 @@ from .query import retrive_documents
 from .config import *
 
 class LLM:
-    def __init__(self, model_name: str = 'gpt-4o', temperature: float = 0.0, max_tokens: int = 100, api_key: str = None):
+    def __init__(self, model_name: str = 'gpt-4o-mini', temperature: float = 0.0, api_key: str = None):
         self.model_name = model_name
         self.temperature = temperature
-        self.max_tokens = max_tokens
         self.client = OpenAI(api_key=api_key)  # <-- chỉ truyền api_key ở đây
         self.system_prompt = """
             You are a helpful assistant for dialogue generation.
@@ -27,7 +26,6 @@ class LLM:
             model=self.model_name,
             messages=[{"role": "user", "content": self.rag_answer(prompt)}],
             temperature=self.temperature,
-            max_tokens=self.max_tokens,
             stream=True
         )
 

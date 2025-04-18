@@ -3,11 +3,11 @@ from typing import Iterator
 from .query import retrive_documents
 from .config import *
 
-class LLM:
-    def __init__(self, model_name: str = 'gpt-4o-mini', temperature: float = 0.0, api_key: str = None):
+class DeepseekLLM:
+    def __init__(self, model_name: str = 'deepseek-chat', temperature: float = 0.0, api_key: str = None):
         self.model_name = model_name
         self.temperature = temperature
-        self.client = OpenAI(api_key=api_key)  # <-- chỉ truyền api_key ở đây
+        self.client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
         self.system_prompt = """
             You are a helpful assistant for dialogue generation.
             Your task is to generate a response based on the user's input.
@@ -18,8 +18,7 @@ class LLM:
     def rag_answer(self, prompt: str) -> str:
         documents = retrive_documents(prompt)
         context = "\n".join(documents)
-        full_prompt = f"{self.system_prompt}\n\nUser: {prompt}\n\nContext: {context}\n\nAssistant:"
-        return full_prompt
+        return f"{self.system_prompt}\n\nUser: {prompt}\n\nContext: {context}\n\nAssistant:"
 
     def streaming_answer(self, prompt: str) -> Iterator[str]:
         response = self.client.chat.completions.create(

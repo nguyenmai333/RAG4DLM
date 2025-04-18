@@ -1,7 +1,7 @@
 from sentence_transformers import SentenceTransformer
 import chromadb
 from .config import *
-from .llm import *
+from .llm_openai import *
 
 client = chromadb.PersistentClient(path=PERSIST_DIRECTORY)
 collection = client.get_collection(name="documents")

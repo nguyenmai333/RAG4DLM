@@ -1,15 +1,17 @@
 import streamlit as st
-from utils.llm import LLM  # Your custom LLM class
+from utils.llm_openai import OpenAILLM  # Your custom LLM class
+from utils.llm_deepseek import DeepseekLLM
+from utils.llm_grok import GrokLLM
 from dotenv import load_dotenv
 import os
 
-# If you're getting torch.classes.__path__ error:
+# Fix for torch.classes.__path__ error (if needed)
 import torch
-torch.classes.__path__ = []  # Optional fix for specific torch issues
+torch.classes.__path__ = []
 
-load_dotenv()  # Load environment variables (e.g., OPENAI_API_KEY)
+load_dotenv()  # Load API keys from .env
 
-# Page config
+# Streamlit page config
 st.set_page_config(
     page_title="BKU Chat",
     layout="wide",
@@ -23,8 +25,18 @@ st.markdown("""
         .title { font-size: 42px; font-weight: bold; color: #1E88E5; text-align: center; margin-bottom: 20px; }
         .user-message { color:black; background-color: #E3F2FD; border-radius: 10px; padding: 15px; margin: 5px 0; text-align: right; }
         .bot-message { color:black; background-color: #F5F5F5; border-radius: 10px; padding: 15px; margin: 5px 0; }
+        .model-tag { font-size: 14px; color: #777; margin-bottom: 5px; }
     </style>
 """, unsafe_allow_html=True)
+
+# Sidebar: Model selector
+st.sidebar.title("⚙️ Model Settings")
+model_choice = st.sidebar.selectbox(
+    "Choose a model:",
+    options=["OpenAI", "DeepSeek", "Grok"],
+    index=0
+)
+st.write(f"🤖 **You selected:** {model_choice} model")
 
 # Initialize session state
 def initialize_session_state():
@@ -38,8 +50,8 @@ def display_chat_messages():
         for message in st.session_state.messages:
             class_name = 'user-message' if message["role"] == "user" else 'bot-message'
             sender = "You" if message["role"] == "user" else "Assistant"
-            st.markdown(f"<div class='{class_name}'><b>{sender}:</b> {message['content']}</div>", 
-                       unsafe_allow_html=True)
+            model_tag = f"<div class='model-tag'>Model: {message.get('model', '')}</div>" if message["role"] == "assistant" else ""
+            st.markdown(f"{model_tag}<div class='{class_name}'><b>{sender}:</b> {message['content']}</div>", unsafe_allow_html=True)
 
 # Main app
 def main():
@@ -59,23 +71,40 @@ def main():
 
         try:
             with st.spinner("Generating response..."):
-                llm = LLM(
-                    model_name="gpt-4o-mini",  # Use correct model name
-                    api_key=os.getenv("OPENAI_API_KEY")
-                )
+                # Select the appropriate LLM based on user choice
+                if model_choice == "OpenAI":
+                    llm = OpenAILLM(
+                        model_name="gpt-4o-mini",
+                        api_key=os.getenv("OPENAI_API_KEY")
+                    )
+                elif model_choice == "DeepSeek":
+                    llm = DeepseekLLM(
+                        model_name="deepseek-chat",
+                        api_key=os.getenv("DEEPSEEK_API_KEY")
+                    )
+                elif model_choice == "Grok":
+                    llm = GrokLLM(
+                        model_name="grok-3-mini-latest",
+                        api_key=os.getenv("GROK_API_KEY"),
+                    )
+
                 message_placeholder = st.empty()
                 full_response = ""
 
                 for chunk in llm.streaming_answer(user_input):
                     full_response += chunk or ""
                     message_placeholder.markdown(
-                        f"<div class='bot-message'><b>Assistant:</b> {full_response}</div>", 
+                        f"<div class='model-tag'>Model: {model_choice}</div><div class='bot-message'><b>Assistant:</b> {full_response}</div>", 
                         unsafe_allow_html=True
                     )
         except Exception as e:
             full_response = f"❌ Error: {str(e)}"
 
-        st.session_state.messages.append({"role": "assistant", "content": full_response})
+        st.session_state.messages.append({
+            "role": "assistant",
+            "content": full_response,
+            "model": model_choice
+        })
         st.rerun()
 
     if st.session_state.messages:

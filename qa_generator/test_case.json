@@ -1,0 +1,394 @@
+{
+    "test_cases": [
+      {
+        "dialogue_id": 1,
+        "description": "Học viên hỏi về lịch thi học kỳ 2 năm học 2024-2025.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Lịch thi học kỳ 2 năm học 2024-2025 được thông báo chưa?",
+            "llm_response": "Có, lịch thi học kỳ 2 năm học 2024-2025 đã được thông báo vào ngày 02/04/2025. Bạn có thể tra cứu chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/item/3222-thong-bao-lich-thi-hk2-2024-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/item/3222-thong-bao-lich-thi-hk2-2024-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Làm sao để tra cứu lịch thi này?",
+            "llm_response": "Bạn có thể truy cập mục 'Tra cứu' trên website http://pgs.hcmut.edu.vn/, chọn 'Thông tin đăng ký dự thi' tại https://grad.hcmut.edu.vn/hv/tra_cuu_thi_sau_dai_hoc.php để xem lịch thi cụ thể.",
+            "labels": {
+              "knowledge_reference": "https://grad.hcmut.edu.vn/hv/tra_cuu_thi_sau_dai_hoc.php",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Có thông báo nào về thay đổi phòng thi không?",
+            "llm_response": "Có, thông báo thay đổi phòng học cho các ngày 15, 16, 17/4/2025 tại tòa nhà B4 đã được công bố vào ngày 02/04/2025. Bạn có thể xem chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3225-thong-bao-thay-doi-phong-hoc-cac-ngay-15-16-17-4-2025-tai-toa-nha-b4.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3225-thong-bao-thay-doi-phong-hoc-cac-ngay-15-16-17-4-2025-tai-toa-nha-b4",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 2,
+        "description": "Học viên hỏi về học bổng sau đại học năm 2025.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Có học bổng nào cho học viên sau đại học năm 2025 không?",
+            "llm_response": "Có, có nhiều học bổng cho năm 2025, bao gồm học bổng tại Rumani, Cộng hòa Séc, Ba Lan, và Thái Lan. Ví dụ, học bổng tại Rumani được thông báo vào ngày 04/04/2025, chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3227-hoc-bong-tai-rumani-nam-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3227-hoc-bong-tai-rumani-nam-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Học bổng tại Ba Lan thì sao? Có yêu cầu gì đặc biệt không?",
+            "llm_response": "Học bổng diện Hiệp định tại Ba Lan năm 2025 được thông báo vào ngày 01/04/2025. Bạn cần đáp ứng các điều kiện theo quy định của chương trình, chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3221-hoc-bong-dien-hiep-dinh-tai-ba-lan-nam-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3221-hoc-bong-dien-hiep-dinh-tai-ba-lan-nam-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Tôi cần nộp chứng chỉ ngoại ngữ cho học bổng này không?",
+            "llm_response": "Theo kế hoạch nộp chứng chỉ ngoại ngữ tháng 4/2025, bạn cần nộp chứng chỉ ngoại ngữ phù hợp với yêu cầu của học bổng. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3193-ke-hoach-nop-chung-chi-ngoai-ngu-nop-ho-so-xet-tot-nghiep-thang-04-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3193-ke-hoach-nop-chung-chi-ngoai-ngu-nop-ho-so-xet-tot-nghiep-thang-04-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 3,
+        "description": "Học viên hỏi về đăng ký tuyển sinh thạc sĩ năm 2025.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Tôi muốn đăng ký thi thạc sĩ năm 2025, làm thế nào?",
+            "llm_response": "Bạn có thể đăng ký tuyển sinh thạc sĩ đợt tháng 06 năm 2025 tại https://grad.hcmut.edu.vn/hv/dang_ky_thi_sau_dai_hoc.php. Thông tin chi tiết được công bố vào ngày 06/03/2025, xem tại http://pgs.hcmut.edu.vn/vi/tuyen-sinh/thac-si/thong-tin-tuyen-sinh-thac-si.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/tuyen-sinh/thac-si/thong-tin-tuyen-sinh-thac-si",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Có lớp ôn tập nào cho kỳ thi này không?",
+            "llm_response": "Có, trường tổ chức lớp chuyển đổi và bổ túc kiến thức cho kỳ tuyển sinh 2025, đợt 1, thông báo ngày 10/03/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3210-chieu-sinh-lop-chuyen-doi-bo-tuc-kien-thuc-2025-dot-1.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3210-chieu-sinh-lop-chuyen-doi-bo-tuc-kien-thuc-2025-dot-1",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Lớp này học ở đâu?",
+            "llm_response": "Thông tin về địa điểm lớp bổ túc kiến thức sẽ được cung cấp khi bạn đăng ký. Bạn có thể liên hệ qua email sdh@hcmut.edu.vn hoặc số điện thoại (+84) 766 780 247 để biết thêm chi tiết.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 4,
+        "description": "Học viên hỏi về lịch nghỉ lễ và thay đổi phòng học.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Có thông báo nào về nghỉ lễ năm 2025 không?",
+            "llm_response": "Có, thông báo nghỉ lễ Giỗ tổ Hùng Vương năm 2025 được công bố ngày 02/04/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3223-thong-bao-nghi-le-gio-to-hung-vuong-nam-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3223-thong-bao-nghi-le-gio-to-hung-vuong-nam-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Còn lịch nghỉ Tết Nguyên đán thì sao?",
+            "llm_response": "Lịch nghỉ Tết Nguyên đán 2025 đã được thông báo vào ngày 13/01/2025. Bạn có thể xem chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3184-lich-nghi-tet-nguyen-dan-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3184-lich-nghi-tet-nguyen-dan-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Có thay đổi phòng học nào gần đây không?",
+            "llm_response": "Có, thông báo thay đổi phòng học ngày 09/3/2025 tại tòa nhà A4 và B4 được cập nhật ngày 08/3/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3208-thong-bao-thay-doi-phong-hoc-ngay-09-3-2025-chu-nhat-tai-toa-nha-a4-va-b4.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3208-thong-bao-thay-doi-phong-hoc-ngay-09-3-2025-chu-nhat-tai-toa-nha-a4-va-b4",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 5,
+        "description": "Học viên hỏi về luận văn thạc sĩ và kế hoạch đánh giá.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Thời gian thực hiện luận văn thạc sĩ đợt 13/01/2025 là bao lâu?",
+            "llm_response": "Thời gian thực hiện luận văn thạc sĩ đợt 13/01/2025 (HK2/2024-2025) đã được gia hạn, thông báo ngày 02/04/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/2400-gia-han-thoi-gian-thuc-hien-luan-van-thac-si-dot-13-01-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/2400-gia-han-thoi-gian-thuc-hien-luan-van-thac-si-dot-13-01-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Kế hoạch đánh giá luận văn này thế nào?",
+            "llm_response": "Kế hoạch đánh giá luận văn thạc sĩ đợt 13/01/2025 cũng được nêu trong thông báo ngày 02/04/2025. Bạn có thể xem chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/2400-gia-han-thoi-gian-thuc-hien-luan-van-thac-si-dot-13-01-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/2400-gia-han-thoi-gian-thuc-hien-luan-van-thac-si-dot-13-01-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Tôi cần nộp hồ sơ xét tốt nghiệp khi nào?",
+            "llm_response": "Theo kế hoạch nộp hồ sơ xét tốt nghiệp tháng 4/2025, bạn cần nộp trước thời hạn được công bố ngày 24/02/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3193-ke-hoach-nop-chung-chi-ngoai-ngu-nop-ho-so-xet-tot-nghiep-thang-04-2025.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3193-ke-hoach-nop-chung-chi-ngoai-ngu-nop-ho-so-xet-tot-nghiep-thang-04-2025",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 6,
+        "description": "Học viên hỏi về đăng ký môn học học kỳ 2 năm học 2024-2025.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Làm sao để đăng ký môn học cho học kỳ 2 năm 2024-2025?",
+            "llm_response": "Kế hoạch đăng ký môn học học kỳ 2 năm 2024-2025 cho học viên cao học được thông báo ngày 13/11/2024. Bạn có thể đăng ký tại http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3148-%C3%BD-2-2024-2025-1.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thac-si-tai-bach-khoa/item/3148-%C3%BD-2-2024-2025-1",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Nghiên cứu sinh có kế hoạch đăng ký khác không?",
+            "llm_response": "Có, nghiên cứu sinh có kế hoạch đăng ký môn học riêng, được thông báo ngày 14/11/2024. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/tien-si/item/3149-%C3%BD-2-2024-2025-1.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/tien-si/item/3149-%C3%BD-2-2024-2025-1",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Nếu tôi cần hỗ trợ, liên hệ ai?",
+            "llm_response": "Bạn có thể liên hệ Phòng Đào tạo Sau đại học qua email sdh@hcmut.edu.vn hoặc số điện thoại (+84) 766 780 247.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 7,
+        "description": "Học viên hỏi về luận án tiến sĩ và hội đồng đánh giá.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Có hội đồng đánh giá luận án tiến sĩ nào sắp tới không?",
+            "llm_response": "Có, ngày 04/04/2025 có hai hội đồng đánh giá luận án tiến sĩ cấp Khoa cho NCS Đặng Long Quân và NCS Nguyễn Phú Công. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/tien-si/item/3229-hop-hoi-dong-danh-gia-luan-an-tien-si-cap-khoa-cho-ncs-dang-long-quan và http://pgs.hcmut.edu.vn/vi/thong-bao/tien-si/item/3228-hop-hoi-dong-danh-gia-luan-an-tien-si-cap-khoa-cho-ncs-nguyen-phu-cong.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/tien-si/item/3229-hop-hoi-dong-danh-gia-luan-an-tien-si-cap-khoa-cho-ncs-dang-long-quan",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Hội đồng cấp Trường thì sao?",
+            "llm_response": "Hội đồng đánh giá luận án tiến sĩ cấp Trường gần nhất là cho NCS Bùi Thanh Phong vào ngày 27/03/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/tien-si/item/3217-hop-hoi-dong-danh-gia-luan-an-tien-si-cap-truong-cho-ncs-bui-thanh-phong.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/tien-si/item/3217-hop-hoi-dong-danh-gia-luan-an-tien-si-cap-truong-cho-ncs-bui-thanh-phong",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Tôi muốn đăng ký đề tài nghiên cứu, làm thế nào?",
+            "llm_response": "Bạn có thể đăng ký đề tài nghiên cứu khoa học tại http://pgs.hcmut.edu.vn/vi/lop-chuyen-de-2/nckh/quan-ly-dang-ky-de-tai. Liên hệ Phòng Đào tạo Sau đại học để được hướng dẫn thêm.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/lop-chuyen-de-2/nckh/quan-ly-dang-ky-de-tai",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 8,
+        "description": "Học viên hỏi về học bổng và cơ hội thực tập.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Có cơ hội thực tập nào cho học viên sau đại học không?",
+            "llm_response": "Có, cơ hội thực tập tại công ty TSMC đã được thông báo ngày 03/01/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3179-co-hoi-thuc-tap-tai-cong-ty-tsmc.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3179-co-hoi-thuc-tap-tai-cong-ty-tsmc",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Còn học bổng nào khác không?",
+            "llm_response": "Có học bổng toàn phần Manaaki của Chính phủ New Zealand, thông báo ngày 07/01/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3181-webinar-hoc-bong-toan-phan-manaaki-cua-chinh-phu-new-zealand-cho-bac-sau-dai-hoc.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3181-webinar-hoc-bong-toan-phan-manaaki-cua-chinh-phu-new-zealand-cho-bac-sau-dai-hoc",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Học bổng này có webinar giới thiệu không?",
+            "llm_response": "Có, webinar giới thiệu học bổng Manaaki được tổ chức, chi tiết trong thông báo ngày 07/01/2025 tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3181-webinar-hoc-bong-toan-phan-manaaki-cua-chinh-phu-new-zealand-cho-bac-sau-dai-hoc.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3181-webinar-hoc-bong-toan-phan-manaaki-cua-chinh-phu-new-zealand-cho-bac-sau-dai-hoc",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 9,
+        "description": "Học viên hỏi về tra cứu văn bằng và quy định đào tạo.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Làm sao để tra cứu văn bằng thạc sĩ?",
+            "llm_response": "Bạn có thể tra cứu văn bằng thạc sĩ tại http://pgs.hcmut.edu.vn/vi/thac-si/tra-cuu/tra-cuu-van-bang. Lưu ý rằng trình duyệt cần hỗ trợ Iframes để sử dụng tính năng này.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thac-si/tra-cuu/tra-cuu-van-bang",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Quy định đào tạo thạc sĩ là gì?",
+            "llm_response": "Quy định đào tạo thạc sĩ được nêu chi tiết tại http://pgs.hcmut.edu.vn/vi/quy-che-quy-dinh/dao-tao-thac-si. Bạn có thể xem các quy định về học tập, luận văn, và tốt nghiệp tại đây.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/quy-che-quy-dinh/dao-tao-thac-si",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Nếu tôi có thắc mắc, liên hệ ở đâu?",
+            "llm_response": "Bạn có thể liên hệ Phòng Đào tạo Sau đại học qua email sdh@hcmut.edu.vn hoặc số điện thoại (+84) 766 780 247, địa chỉ 268 Lý Thường Kiệt, Quận 10, TP.HCM.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      },
+      {
+        "dialogue_id": 10,
+        "description": "Học viên hỏi về khóa tập huấn và seminar.",
+        "turns": [
+          {
+            "turn_id": 1,
+            "user_input": "Có khóa tập huấn nào cho học viên sau đại học không?",
+            "llm_response": "Có, khóa tập huấn chuyên gia về 'Phương pháp thu thập dữ liệu, viết bài báo khoa học và công bố quốc tế' được tổ chức, thông báo ngày 21/02/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3191-khoa-tap-huan-chuyen-gia.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3191-khoa-tap-huan-chuyen-gia",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 2,
+            "user_input": "Còn seminar nào sắp tới không?",
+            "llm_response": "Có, seminar về Quantum Computing, AI, 6G do GS. Dương Quang Trung trình bày, thông báo ngày 13/02/2025. Chi tiết tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3186-seminar-quantumn-computing-ai-6g-giao-su-duong-quang-trung-trinh-bay.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3186-seminar-quantumn-computing-ai-6g-giao-su-duong-quang-trung-trinh-bay",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          },
+          {
+            "turn_id": 3,
+            "user_input": "Seminar này có mở cho nghiên cứu sinh không?",
+            "llm_response": "Có, seminar này mở cho cả học viên cao học và nghiên cứu sinh. Bạn có thể đăng ký tham gia qua thông báo tại http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3186-seminar-quantumn-computing-ai-6g-giao-su-duong-quang-trung-trinh-bay.",
+            "labels": {
+              "knowledge_reference": "http://pgs.hcmut.edu.vn/vi/thong-bao/thong-tin-chung/item/3186-seminar-quantumn-computing-ai-6g-giao-su-duong-quang-trung-trinh-bay",
+              "accuracy": 1,
+              "coherence": 5,
+              "collaboration": 5
+            }
+          }
+        ]
+      }
+    ]
+  }

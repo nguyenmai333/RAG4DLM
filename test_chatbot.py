@@ -15,7 +15,8 @@ def test_cases_from_csv(csv_path="test_queries_with_responses.csv", output_csv="
         name="Correctness",
         criteria="Determine if the 'actual output' is correct based on the 'expected output'.",
         evaluation_params=[LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.EXPECTED_OUTPUT],
-        threshold=0.5
+        threshold=0.5,
+        model='gpt-4o-mini'
     )
     
     results = []

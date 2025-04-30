@@ -1,13 +1,14 @@
+# utils/llm_deepseek.py
 from openai import OpenAI
 from typing import Iterator
 from .query import retrive_documents
 from .config import *
 
-class LLM:
-    def __init__(self, model_name: str = None, temperature: float = 0.0, api_key: str = None, base_url: str = None):
+class DeepseekLLM:
+    def __init__(self, model_name: str = 'deepseek-chat', temperature: float = 0.0, api_key: str = None):
         self.model_name = model_name
         self.temperature = temperature
-        self.client = OpenAI(api_key=api_key)  # <-- chỉ truyền api_key ở đây
+        self.client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
         self.system_prompt = """
             You are a helpful assistant for dialogue generation.
             Your task is to generate a response based on the user's input.

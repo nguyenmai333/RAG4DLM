@@ -8,3 +8,8 @@ crawl4ai
 streamlit
 openai
 accelerate
+python-dotenv 
+matplotlib 
+nltk 
+rouge-score
+underthesea

@@ -1,8 +1,9 @@
 import streamlit as st
 from dotenv import load_dotenv
 import os
-from utils.llm import *
-from utils.config import *
+from utils.llm_openai import OpenAILLM  # Your custom LLM class
+from utils.llm_deepseek import DeepseekLLM
+from utils.llm_grok import GrokLLM
 # Fix for torch.classes.__path__ error (if needed)
 import torch
 torch.classes.__path__ = []
@@ -69,22 +70,19 @@ def main():
             with st.spinner("Generating response..."):
                 # Select the appropriate LLM based on user choice
                 if model_choice == "OpenAI":
-                    llm = LLM(
-                        model_name=llm_name['gpt'],
-                        api_key=os.getenv("OPENAI_API_KEY"),
-                        base_url=base_name['gpt'],
+                    llm = OpenAILLM(
+                        model_name="gpt-4o-mini",
+                        api_key=os.getenv("OPENAI_API_KEY")
                     )
                 elif model_choice == "DeepSeek":
-                    llm = LLM(
-                        model_name=llm_name['deepseek'],
-                        api_key=os.getenv("DEEPSEEK_API_KEY"),
-                        base_url=base_name['deepseek'],
+                    llm = DeepseekLLM(
+                        model_name="deepseek-chat",
+                        api_key=os.getenv("DEEPSEEK_API_KEY")
                     )
                 elif model_choice == "Grok":
-                    llm = LLM(
-                        model_name=llm_name['grok'],
+                    llm = GrokLLM(
+                        model_name="grok-3-mini-latest",
                         api_key=os.getenv("GROK_API_KEY"),
-                        base_url=base_name['grok'],
                     )
 
                 message_placeholder = st.empty()

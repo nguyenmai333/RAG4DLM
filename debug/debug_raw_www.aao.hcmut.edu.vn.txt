@@ -1,0 +1,188 @@
+URL: http://www.aao.hcmut.edu.vn/
+
+<!DOCTYPE html><html dir="ltr" lang="vi"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300&amp;subset=latin,vietnamese">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300" rel="stylesheet" type="text/css">
+<title>Trường Đại học Bách Khoa ĐHQG-HCM</title>
+<base href="http://aao.hcmut.edu.vn/">
+<meta name="description" content="My Store">
+<link href="http://aao.hcmut.edu.vn/image/data/khoa/logo.png" rel="icon">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/styles.css">
+<link href="catalog/view/theme/default/stylesheet/bootstrap.min.css" rel="stylesheet">
+<link href="catalog/view/theme/default/stylesheet/styles.css" rel="stylesheet">
+<link href="catalog/view/theme/default/stylesheet/mobile.css" rel="stylesheet">
+<link href="catalog/view/theme/default/stylesheet/slide.css" rel="stylesheet">
+<link href="catalog/view/theme/default/stylesheet/screen.css" rel="stylesheet" type="text/css" media="screen">
+<script type="text/javascript" src="catalog/view/javascript/detection.js"></script><meta name="viewport">
+<script src="catalog/view/javascript/jquery.min.js"></script>
+<script src="catalog/view/javascript/bootstrap.min.js"></script>
+
+<script type="text/javascript"><!-- 
+function getURLVar(urlVarName) {
+	var urlHalves = String(document.location).toLowerCase().split('?');
+	var urlVarValue = '';
+	
+	if (urlHalves[1]) {
+		var urlVars = urlHalves[1].split('&');
+
+		for (var i = 0; i <= (urlVars.length); i++) {
+			if (urlVars[i]) {
+				var urlVarPair = urlVars[i].split('=');
+				
+				if (urlVarPair[0] && urlVarPair[0] == urlVarName.toLowerCase()) {
+					urlVarValue = urlVarPair[1];
+				}
+			}
+		}
+	}
+	
+	return urlVarValue;
+} 
+
+$(document).ready(function() {
+	route = getURLVar('route');
+	if (route) {
+
+		part = route.split('/');
+		
+		if (route == 'catalog/tuyensinh' || route == 'catalog/thongtints' || route == 'catalog/chitietts') {
+			$('#tuyensinh').addClass('active');
+		} else if (route == 'information/contact' || route == 'information/contact/success') {
+			$('#lienhe').addClass('active');
+		} else if (route == 'catalog/search') {
+			$('#timkiem').addClass('active');
+		} else {
+			$('#daotao').addClass('active');	
+		}
+	} else {
+			$('#daotao').addClass('active');	
+	}
+});
+//--></script>
+</head>
+<body style="">
+<!-- Top header ---->
+<div class="top_header">
+<div class="container">
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://www.hcmut.edu.vn">
+	    <img class="deskop_logo" src="catalog/view/theme/default/images/logo.png" width="463" height="147">
+        <img class="medium_logo" src="catalog/view/theme/default/images/m1logo.png">
+        <img class="mobile_logo" src="catalog/view/theme/default/images/mlogo.png">
+      </a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right menu_top">
+      <div class="search_wapper">
+      <div class="search_wapper_a" id="search">
+      		<input type="text" class="search_wapper_input" name="search" placeholder="Nhập Tìm kiếm" value="" id="filter_search">
+        <button class="button_search"></button>
+              </div>
+      <form action="http://aao.hcmut.edu.vn/index.php?route=module/language" method="post" enctype="multipart/form-data">
+<ul class="icon_lang">
+        <li><img style="cursor:pointer" src="image/flags/icon_lag_vietnam.png" alt="Vietnam" title="Vietnam" onclick="$('input[name=\'language_code\']').attr('value', 'vi'); $(this).parent().submit();"></li>
+    </ul>
+    <input type="hidden" name="language_code" value="">
+    <input type="hidden" name="redirect" value="http://aao.hcmut.edu.vn/index.php?route=common/home">
+</form>
+
+
+
+      </div>
+      <div class="clear"></div>
+        <li class="menu_top_con"><a id="daotao" href="http://aao.hcmut.edu.vn/index.php?route=common/home" class="active">ĐÀO TẠO</a></li>
+        <li class="menu_top_con"><a id="tuyensinh" href="http://tuyensinh.hcmut.edu.vn"><!--<a id="tuyensinh" href="http://aao.hcmut.edu.vn/index.php?route=catalog/tuyensinh">-->TUYỂN SINH</a></li>
+                <li class="menu_top_con"><a id="lienhe" href="http://aao.hcmut.edu.vn/index.php?route=information/contact">LIÊN HỆ</a></li>
+        <li class="menu_top_con mobile_menu">
+        	<form action="http://aao.hcmut.edu.vn/index.php?route=module/language" method="post" enctype="multipart/form-data">
+<div class="mlanguages">Ngôn ngữ<span class="vietnamese"><img style="cursor:pointer" src="image/flags/icon_lag_vietnam.png" onclick="$('input[name=\'language_code\']').attr('value', 'vi'); $(this).parent().parent().submit();"></span>
+    </div>
+    <input type="hidden" name="language_code" value="">
+    <input type="hidden" name="redirect" value="http://aao.hcmut.edu.vn/index.php?route=common/home">
+</form>
+
+
+
+        </li>
+        <li class="menu_top_con mobile_menu">
+        	<div class="mshare">
+            Chia sẽ                            <span class="facebook" onclick="return fbs_click()"></span>
+                            <span class="pintrest" onclick="return pr_click()"></span>
+                            <span class="google" onclick="return gp_click()"></span>
+                            <span class="twitter" onclick="return tw_click()"></span>
+                            <span class="linkedin" onclick="return ld_click()"></span>
+            </div>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</div>
+</div>
+<!-- end Top header ---->
+
+<!-- Content ---->
+<div class="content_wapper home_wapper">
+<div class="container">
+    <div class="padding_home head_title">
+    	<h3>ĐÀO TẠO</h3>
+    </div>
+    <div class="block_new_short"><span><div>
+	Phòng Đào tạo có trách nhiệm trong công tác tuyển sinh, quản lý chương trình đào tạo, tổ chức giảng dạy và học tập, cấp bằng tốt nghiệp cho bậc đại học, cao đẳng chính quy và không chính quy (hình thức vừa làm vừa học, đào tạo từ xa).</div>
+</span></div>
+    <!-- slide ---->
+    <div class="edu-slider-block">
+                    <div class="slider-preview">
+                        <ul class="slider slider-line-1 desktop" style="width: 2762px;">
+                          						    <li class="big-item bg-blue no-margin-left" data-url="index.php?route=catalog/thongbao">
+                                <div class="item-content">
+                                    <div class="icon-item alert"></div>
+                                    <h3>TIN TỔNG HỢP</h3>
+                                    
+                                     									 <div class="description" id="slide-news0">
+                                     												<span> Thay đổi ngày kiểm tra giữa kỳ HK222 môn Vật Lý 1 , Nhóm Dự thính</span>
+										 												<span style="display: none;"> Lịch thi cuối kỳ HK1/2022-2023</span>
+										 												<span style="display: none;"> Lịch Kiểm tra giữa kỳ HK1/2022-2023</span>
+										 												<span style="display: none;"> Lịch thi cuối kỳ Dự thính HK3/2021-2022 ( cập nhật 14/07/2022)</span>
+										 												<span style="display: none;"> Lịch kiểm tra giữa kỳ Dự thính hè 2022 ( HK3/2021-2022)</span>
+										 												<span style="display: none;"> Lịch thi cuối kỳ HK2/2021-2022</span>
+										                                     </div>
+                                </div>
+                            </li>
+                             						    <li class="small-item bg-xanh-luc-bao no-margin-left" data-url="/index.php?route=catalog/chitietsv&amp;path=59_205&amp;tid=374">
+                                <div class="item-content no-description">
+                                    <div class="icon-item chart"></div>
+                                    <h3>LỊCH HỌC VỤ</h3>
+                                    
+                                      
+                                    <div class="description">                                                                        </div>
+                                </div>
+                            </li>
+                             						    <li class="big-item bg-red no-margin-left" data-url="/index.php?route=catalog/sinhvien&amp;path=219_61">
+                                <div class="item-content">
+                                    <div class="icon-item student"></div>
+                                    <h3>SINH VIÊN</h3>
+                                    
+                                     									 <div class="description" id="slide-news1">
+                                     												<span> Thay đổi ngày kiểm tra giữa kỳ HK222 môn Vật Lý 1 , Nhóm Dự thính</span>
+										 												<span style="display: none;"> Lịch thi cuối kỳ HK1/2022-2023</span>
+										 												<span style="display: none;"> Lịch Kiểm tra giữa kỳ HK1/2022-2023</span>
+										 												<span style="display: none;"> Lịch thi cuối kỳ Dự thính HK3/2021-2022 ( cập nhật 14/07/2022)</span>
+										 												<span style="display: none;"> Lịch kiểm tra giữa kỳ Dự thính hè 2022 ( HK3/2021-2022)</span>
+										 												<span style="display: none;"> Lịch thi cuối kỳ HK2/2021-2022</span>
+										                                     </div>
+                                </div>
+                            </l

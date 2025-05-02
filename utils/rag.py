@@ -54,7 +54,7 @@ def build_rag_system(documents, chunk_size=100, overlap = 20):
     )
 
 if __name__ == "__main__":
-    document_directory = 'data'
+    document_directory = 'docs'
     documents = load_documents(document_directory)
     build_rag_system(documents, chunk_size=100, overlap=20)
 

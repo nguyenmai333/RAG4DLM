@@ -1,0 +1,279 @@
+URL: https://mybk.hcmut.edu.vn/bksi/public/vi/category/3
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="vi"><head>
+        <link rel="stylesheet" href="/bksi/public/bundles/uvdesksupportcenter/css/knowledgebase.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.7.14/css/bootstrap-datetimepicker.min.css">
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.13.1/underscore-min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.4.0/backbone-min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.validation/0.11.5/backbone-validation-min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.paginator/2.0.8/backbone.paginator.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.0/moment.min.js"></script>	
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+
+        
+        <script src="/bksi/public/bundles/uvdesksupportcenter/js/_common.js"></script>
+        <script src="/bksi/public/bundles/uvdesksupportcenter/js/uikit.front.js"></script>
+        <script src="/bksi/public/bundles/uvdeskcoreframework/js/dropdown.js"></script>
+
+                        
+                <link rel="canonical" href="http://mybk.hcmut.edu.vn/vi/category/3">
+
+                    <link rel="icon" sizes="16x16" href="/bksi/public/favicon.ico">
+        
+                    <title>Học phí</title>
+                        
+            <meta http-equiv="Content-Type" content="text/html;" charset="UTF-8">
+            <meta name="robots" content="INDEX,FOLLOW">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <meta property="og:locale" content="vi">
+            <meta property="og:type" content="article">
+            <meta property="og:title" content="Học phí">
+            <meta property="og:url" content="http://mybk.hcmut.edu.vn/vi/category/3">
+            <meta property="og:site_name" content="BKSI">
+                            <meta property="og:image" content="assets/website/logo.png">
+                        <meta name="twitter:card" content="summary">
+            <meta name="twitter:title" content="Học phí">
+
+            <link rel="dns-prefetch" href="//www.google.com">
+            <link rel="dns-prefetch" href="//fonts.googleapis.com">
+            <link rel="dns-prefetch" href="//fonts.gstatic.com">
+            <link rel="dns-prefetch" href="//cdn.uvdesk.com">
+        
+                                    	<link rel="icon" sizes="16x16" href="/bksi/public/favicon.ico">
+
+<style>
+			body {
+			background: #ffffff;
+		}
+				.uv-header {
+			background-color: #ffffff;
+		}
+				.uv-hero {
+			background-color: #1488db;
+		}
+				a:not(.uv-btn):not(.uv-btn-small):not(.uv-table td a) {
+			color: #2750c4 !important;
+		}
+				a:hover:not(.uv-btn):not(.uv-btn-small):not(.uv-table td a) {
+			color: #2750c4 !important;
+		}
+				.uv-editor p {
+			color: #333333;
+		}
+	</style>
+
+                    
+                                    <style>
+    .uv-btn-small,
+    .uv-btn,
+    .uv-btn-large,
+    .uv-btn-action,
+    .uv-btn-label {
+        background: #2171b9;
+    }
+
+    .uv-btn-small:hover,
+    .uv-btn:hover,
+    .uv-btn-large:hover,
+    .uv-btn-action:hover,
+    .btn:hover,
+    .uv-btn-label:hover {
+        background: #2171b9;
+        opacity: .85;
+    }
+
+    .uv-btn-small:active,
+    .uv-btn:active,
+    .uv-btn-large:active,
+    .uv-btn-action:active,
+    .btn:active,
+    .uv-btn-label:active {
+        background: #2171b9;
+        opacity: .65;
+    }
+
+    .uv-btn-stroke:active {
+        border-color: #2171b9;
+    }
+
+    .uv-dropdown .uv-dropdown-btn-active {
+        border: solid 1px #2171b9;
+    }
+
+    .uv-select:focus,
+    .uv-field:focus,
+    .uv-search-inline:focus {
+        border-color: #2171b9;
+    }
+
+    .uv-loader span:before,
+    .uv-loader span:after {
+        background: #2171b9;
+    }
+
+    .bootstrap-datetimepicker-widget table td.active,
+    .bootstrap-datetimepicker-widget table td.active:hover {
+        background-color: #2171b9;
+    }
+
+    .btn-primary,
+    .btn-primary:hover,
+    .btn-primary:active {
+        background-color: #2171b9;
+    }
+
+    .uv-hero {
+        background-color: #2171b9;
+    }
+    
+    .uv-cta-wrapper .uv-cta-lt svg path {
+        fill: #2171b9;
+    }
+    .uv-kb-layout-folder .uv-kb-folder {
+        border-color: #2171b9;
+    }
+
+    .uv-kb-layout-grid .uv-kb-folder{
+        border-color: #2171b9;
+    }
+
+    .uv-kb-layout-folder .uv-kb-folder .uv-kb-folder-lt {
+        background-position: -90px 0px;
+        background-color: #2171b9;
+    }
+    
+    .uv-paper-article .uv-paper-section .uv-folder-title:after {
+        background-color: #2171b9;
+    }
+
+    .uv-kb-layout-category .uv-kb-folder {
+        border-bottom-color: #2171b9;
+    }
+
+    .uv-brand {
+        color: #2171b9;
+    }
+
+    .uv-pagination a:hover {
+        background-color: #2171b9;
+        border-color: rgba(0,0,0,.1);
+    }
+
+    .uv-nav-tab ul.uv-nav-tab-label li .uv-nav-tab-active,
+    .uv-nav-tab ul.uv-nav-tab-label li a:hover {
+        border-bottom-color: #2171b9;
+    }
+    .uv-skin-dark .uv-ticket-view .uv-ticket-accordion .uv-ticket-count-stat,
+    .uv-skin-dark .uv-ticket-view .uv-ticket-accordion .uv-ticket-count-stat:hover {
+        background: #2171b9;
+    }
+</style>
+                    
+            </head>
+
+           
+    <body class=" ">
+                
+        <div class="uv-notifications-wrapper">
+                                                                    
+            <noscript>
+                <div class="uv-notification uv-error">
+                    <p>Trình duyệt của bạn không hỗ trợ Javascript hoặc bạn đã vô hiệu hóa Javascript. Vui lòng bật nó lên!</p>
+                </div>
+                <style>.uv-loader-view {display: none;}</style>
+            </noscript>
+        </div>
+
+
+                 
+            <!--Header-->
+<style>
+    .uv-dropdown-list  {
+        text-align: left;
+    }
+    .uv-dropdown-list ul li {
+        width: 100%;
+    }
+    .uv-header .uv-header-rt .uv-dropdown-list ul li a {
+        color: #333;
+        font-size: 16px;
+        padding: 0;
+    }
+    .uv-header .uv-header-rt .uv-dropdown-list ul li a:hover {
+        color: #2750C4;
+        text-decoration: none;
+    }
+    .uv-profile-block .uv-bottom-right{
+        top: auto !important;
+    }
+    .uv-rtl header .uv-header-rt > span {
+        display: block;
+    }
+    .uv-rtl header .uv-header-rt > span > .uv-dropdown-list {
+        right: unset;
+        left: 0px;
+        top: 70px;
+        text-align: right;
+    }
+    		.uv-hero {
+			background-color: #1488db;
+		}
+        .uv-header .uv-header-rt .uv-hamburger svg path {
+            fill: #1488db;
+        }
+        .uv-skin-dark .uv-hero {
+			background-color: #1488db;
+		}
+	            a:not(.uv-btn):not(.uv-btn-small):not(.uv-btn-social):not(.uv-table):not(.not-shiny) {
+            color: #2750c4 !important;
+        }
+                a:not(.uv-btn):not(.uv-btn-small):not(.uv-btn-social):not(.uv-table):not(.not-shiny):hover {
+            color: #2750c4 !important;
+        }
+                .uv-paper-article .uv-paper-section > section > p {
+            color: #333333 !important;
+        }
+        .uv-paper-article .uv-paper-section > section > ul {
+            color: #333333 !important;
+        }
+        .goog-te-gadget-simple .goog-te-menu-value, .goog-te-gadget-simple .goog-te-menu-value:hover {
+        color: #333!important;
+    }
+</style>
+<div class="uv-header">
+    <div class="uv-container">
+        <header>
+            <div class="uv-header-lt">
+                <a class="uv-logo" href="/bksi/public/vi/folder">
+                                            <img src="http://mybk.hcmut.edu.vn/bksi/public/assets/website/logo.png" alt="BKSI" width="200" height="48">
+                                    </a>
+            </div>
+            <div class="uv-header-rt">
+                                    <nav id="front_nav">
+                        <ul>
+                            <li><a href="/bksi/public/vi/folder">Trang chủ</a></li>
+                            
+
+                                                                                                <li><a href="/bksi/public/vi/customer/login" class="uv-btn-small">Liên hệ</a></li>
+                                  
+                                                                                        <li><a href="/bksi/public/en/category/3"> <img src="http://mybk.hcmut.edu.vn/bksi/public/flag_en.png" alt="BKSI"></a></li>
+                                                    </ul>
+
+                    </nav>
+                    <div class="uv-hamburger">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="15px">
+                        <path fill-rule="evenodd" d="M18.500,9.000 L1.500,9.000 C0.672,9.000 0.000,8.328 0.000,7.500 C0.000,6.672 0.672,6.000 1.500,6.000 L18.500,6.000 C19.328,6.000 20.000,6.672 20.000,7.500 C20.000,8.328 19.328,9.000 18.500,9.000 ZM18.500,3.000 L1.500,3.000 C0.672,3.000 0.000,2.328 0.000,1.500 C0.000,0.672 0.672,-0.000 1.500,-0.000 L18.500,-0.000 C19.328,-0.000 20.000,0.672 20.000,1.500 C20.000,2.328 19.328,3.000 18.500,3.000 ZM1.500,12.000 L18.500,12.000 C19.328,12.000 20.000,12.672 20.000,13.500 C20.000,14.328 19.328,15.000 18.500,15.000 L1.500,15.000 C0.672,15.000 0.000,14.328 0.000,13.500 C0.000,12.672 0.672,12.000 1.500,12.000 Z"></path>
+                        </svg>
+                    </div>
+                
+            </div>
+        </header>
+    </div>
+</div>
+<!--//Header-->
+        
+            <form method="get" action="/bksi/public/vi/search">
+        <div class="uv-nav-bar">

@@ -1,0 +1,74 @@
+URL: http://wiki.hcmut.edu.vn/index.php/My_B%C3%A1ch_Khoa
+
+<!DOCTYPE html><html class="client-js" lang="en" dir="ltr"><head>
+<meta charset="UTF-8">
+<title>BKwiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Trang_Chính","wgTitle":"Trang Chính","wgCurRevisionId":1608,"wgRevisionId":1608,"wgArticleId":1,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Tất cả"],"wgBreakFrames":false,"wgPageContentLanguage":"vi","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"vi normal","wgMonthNames":["","tháng 1","tháng 2","tháng 3","tháng 4","tháng 5","tháng 6","tháng 7","tháng 8","tháng 9","tháng 10","tháng 11","tháng 12"],"wgMonthNamesShort":["","tháng 1","tháng 2","tháng 3","tháng 4","tháng 5","tháng 6","tháng 7","tháng 8","tháng 9","tháng 10","tháng 11","tháng 12"],"wgRelevantPageName":"Trang_Chính","wgRelevantArticleId":1,"wgRequestId":"aBTLV6lhhJ477bvS-5HDwQAAAAE","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgIsMainPage":true,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"mlmLanguages":["en","cn","fr","it","nl","de"],"mlmLanguageFlags":{"vi":"/wiki/extensions/MultiLanguageManager/resources/images/VI.png","en":"/wiki/extensions/MultiLanguageManager/resources/images/GB.png","cn":"/wiki/extensions/MultiLanguageManager/resources/images/CN.png","fr":"/wiki/extensions/MultiLanguageManager/resources/images/FR.png","it":"/wiki/extensions/MultiLanguageManager/resources/images/IT.png","nl":"/wiki/extensions/MultiLanguageManager/resources/images/NL.png","de":"/wiki/extensions/MultiLanguageManager/resources/images/DE.png"}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","ext.mlm.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0dgfq13",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"vi"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.languageSelector","ext.mlm","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/wiki/load.php?lang=en&amp;modules=ext.mlm.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector">
+<script async="" src="/wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<meta name="generator" content="MediaWiki 1.33.0">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="BKwiki (vi)">
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.hcmut.edu.vn/wiki/api.php?action=rsd">
+<link rel="alternate" type="application/atom+xml" title="BKwiki Atom feed" href="/wiki/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:Thay_%C4%91%E1%BB%95i_g%E1%BA%A7n_%C4%91%C3%A2y&amp;feed=atom">
+<!--[if lt IE 9]><script src="/wiki/load.php?lang=vi&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Trang_Chính rootpage-Trang_Chính skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-languageselector" class="mw-indicator"><span id="languageselector-box-1" class="languageselector " style=""><form name="languageselector-form-1" id="languageselector-form-1" method="get" action="/wiki/index.php" style="display:inline;"><input type="hidden" value="Trang_Chính" name="title"><select name="setlang" id="languageselector-select-1" style=""><option value="en" selected="">English</option><option value="vi">Tiếng Việt</option></select><input id="languageselector-commit-1" type="submit" value="set"></form></span></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="vi">Trang Chính</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From BKwiki</div>
+		<div id="contentSub" lang="en" dir="ltr"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="vi" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Chào mừng đến với BKwiki.</b>
+</p><p>Trường <a rel="nofollow" class="external text" href="http://www.hcmut.edu.vn">ĐH Bách Khoa Tp.HCM</a> đã và đang cung cấp rất nhiều dịch vụ/thông tin cho cho cán bộ và sinh viên cũng như các đơn vị ngoài trường. BKwiki là nơi tổng hợp tất cả các thông tin theo dạng kho tri thức Wikipedia.com. Xem thêm <a href="/wiki/index.php/BKwiki:Gi%E1%BB%9Bi_thi%E1%BB%87u" title="BKwiki:Giới thiệu"> Giới thiệu về BKwiki</a>.
+</p><p>Nếu không tìm thấy thông tin hoặc cần góp ý, xin vui lòng gửi vào BK Hỏi Đáp (<a rel="nofollow" class="external text" href="http://mybk.hcmut.edu.vn">myBK</a>-&gt; "GÓP Ý VỀ CÁC DỊCH VỤ CỦA NHÀ TRƯỜNG" -&gt; "Góp ý cho BKwiki".
+</p><p>Trân trọng.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#L.C3.A0m_sao_t.C3.ACm_th.E1.BA.A5y_th.C3.B4ng_tin.3F"><span class="tocnumber">1</span> <span class="toctext">Làm sao tìm thấy thông tin?</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ai_cung_c.E1.BA.A5p_th.C3.B4ng_tin.3F"><span class="tocnumber">2</span> <span class="toctext">Ai cung cấp thông tin?</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#C.C3.B3_th.E1.BB.83_b.E1.BA.A1n_quan_t.C3.A2m_c.C3.A1c_.C4.91.E1.BB.81_m.E1.BB.A5c_sau_.C4.91.C3.A2y"><span class="tocnumber">3</span> <span class="toctext">Có thể bạn quan tâm các đề mục sau đây</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#C.C3.A1c_quy_tr.C3.ACnh.2C_quy_.C4.91.E1.BB.8Bnh.2C_c.C3.A2u_h.E1.BB.8Fi_th.C6.B0.E1.BB.9Dng_g.E1.BA.B7p_cho_Sinh_vi.C3.AAn_.C4.90.E1.BA.A1i_h.E1.BB.8Dc.2Fcao_.C4.91.E1.BA.B3ng"><span class="tocnumber">3.1</span> <span class="toctext">Các quy trình, quy định, câu hỏi thường gặp cho Sinh viên Đại học/cao đẳng</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Gi.E1.BA.A3ng_vi.C3.AAn"><span class="tocnumber">3.2</span> <span class="toctext">Giảng viên</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#H.C6.B0.E1.BB.9Bng_d.E1.BA.ABn_s.E1.BB.AD_d.E1.BB.A5ng_c.C3.A1c_ph.E1.BA.A7n_m.E1.BB.81m_c.E1.BB.A7a_nh.C3.A0_tr.C6.B0.E1.BB.9Dng"><span class="tocnumber">3.3</span> <span class="toctext">Hướng dẫn sử dụng các phần mềm của nhà trường</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#C.C3.A1c_v.E1.BA.A5n_.C4.91.E1.BB.81_kh.C3.A1c:_.C4.91i.E1.BB.87n_tho.E1.BA.A1i_n.E1.BB.99i_b.E1.BB.99.2C_..."><span class="tocnumber">3.4</span> <span class="toctext">Các vấn đề khác: điện thoại nội bộ, ...</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="Làm_sao_tìm_thấy_thông_tin?"></span><span class="mw-headline" id="L.C3.A0m_sao_t.C3.ACm_th.E1.BA.A5y_th.C3.B4ng_tin.3F">Làm sao tìm thấy thông tin?</span></h2>
+<p>Các thông tin trên BKwiki được tìm thấy chủ yếu dùng phương pháp <a href="/wiki/index.php/T%C3%ACm_ki%E1%BA%BFm" title="Tìm kiếm">Tìm kiếm</a>.
+</p>
+<h2><span id="Ai_cung_cấp_thông_tin?"></span><span class="mw-headline" id="Ai_cung_c.E1.BA.A5p_th.C3.B4ng_tin.3F">Ai cung cấp thông tin?</span></h2>
+<p>Hiện nay, tất cả các cán bộ, giảng viên của nhà trường đều được phép thêm vào, hiệu chỉnh, ... các thông tin và sẽ chịu trách nhiệm về các thông tin mà mình cung cấp theo đúng chức năng và nhiệm vụ được giao trong nhà trường.
+</p>
+<h2><span id="Có_thể_bạn_quan_tâm_các_đề_mục_sau_đây"></span><span class="mw-headline" id="C.C3.B3_th.E1.BB.83_b.E1.BA.A1n_quan_t.C3.A2m_c.C3.A1c_.C4.91.E1.BB.81_m.E1.BB.A5c_sau_.C4.91.C3.A2y">Có thể bạn quan tâm các đề mục sau đây</span></h2>
+<h3><span id="Các_quy_trình,_quy_định,_câu_hỏi_thường_gặp_cho_Sinh_viên_Đại_học/cao_đẳng"></span><span class="mw-headline" id="C.C3.A1c_quy_tr.C3.ACnh.2C_quy_.C4.91.E1.BB.8Bnh.2C_c.C3.A2u_h.E1.BB.8Fi_th.C6.B0.E1.BB.9Dng_g.E1.BA.B7p_cho_Sinh_vi.C3.AAn_.C4.90.E1.BA.A1i_h.E1.BB.8Dc.2Fcao_.C4.91.E1.BA.B3ng">Các quy trình, quy định, câu hỏi thường gặp cho Sinh viên Đại học/cao đẳng</span></h3>
+<ul><li><a href="/wiki/index.php/Sinh_vi%C3%AAn" title="Sinh viên">Sinh viên</a></li>
+<li><a href="/wiki/index.php/Quy_ch%E1%BA%BF_h%E1%BB%8Dc_v%E1%BB%A5" title="Quy chế học vụ">Quy chế học vụ</a></li>
+<li><a href="/wiki/index.php/H%E1%BB%8Dc_b%E1%BB%95ng" title="Học bổng">Học bổng</a></li>
+<li><a href="/wiki/index.php/H%E1%BB%8Dc_ph%C3%AD" title="Học phí">Học phí</a></li>
+<li><a href="/wiki/index.php/%C4%90%C4%83ng_k%C3%BD_m%C3%B4n_hoc" title="Đăng ký môn hoc">Đăng ký môn hoc</a></li>
+<li><a href="/wiki/index.php/H%E1%BB%8Dc_v%E1%BB%A5" title="Học vụ">Học

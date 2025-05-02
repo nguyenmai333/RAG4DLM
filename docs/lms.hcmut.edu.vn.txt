@@ -1,0 +1,54 @@
+URL: https://lms.hcmut.edu.vn/
+Depth: 2
+Title: Log in to the site | BK-LMS
+
+Skip to main content
+Thông báo Bảo trì hệ thống
+(Maintenance Notice)
+Hệ thống LMS tạm thời ngừng hoạt động trong khoảng thời gian sau đây để bảo trì
+(The LMS system will be temporarily unavailable for maintenance during the following period)
+:
+12:00, Chủ nhật 08/09/2024 - 13:00, Chủ nhật 08/09/2024
+.
+Quý Thầy/Cô cùng các bạn Sinh viên thu xếp ngừng các hoạt động trên hệ thống trong thời gian nói trên
+(Please arrange to cease all activities on the system during the aforementioned period)
+.
+Rất mong Quý Thầy/Cô cùng các bạn Sinh viên thông cảm vì sự bất tiện này (We apologize for any inconvenience this may cause and appreciate your understanding).
+Side panel
+Home
+Old BKeL
+Courses
+More
+English ‎(en)‎
+English ‎(en)‎
+Vietnamese ‎(vi)‎
+Log in
+Home
+Old BKeL
+Courses
+Log in to BK-LMS - HỆ THỐNG HỖ TRỢ GIẢNG DẠY VÀ HỌC TẬP
+Log in using your account on:
+Tài khoản HCMUT (HCMUT account)
+Admin
+Username
+Password
+Log in
+Lost password?
+English ‎(en)‎
+English ‎(en)‎
+Vietnamese ‎(vi)‎
+Cookies notice
+Tổ kỹ thuật P.ĐT / Technician
+Email : ddthu@hcmut.edu.vn
+ĐT (Tel.) : (84-8) 38647256 - 5258
+Quý Thầy/Cô chưa có tài khoản (hoặc quên mật khẩu) nhà trường vui lòng liên hệ Trung tâm Dữ liệu & Công nghệ Thông tin, phòng 109A5 để được hỗ trợ.
+(
+For HCMUT account, please contact to : Data and Information Technology Center)
+Email : dl-cntt@hcmut.edu.vn
+ĐT (Tel.) : (84-8) 38647256 - 5200
+Copyright 2007-2023 BKEL - Phát triển dựa trên Moodle
+You are not logged in.
+Data retention summary
+Get the mobile app
+Powered by
+Moodle

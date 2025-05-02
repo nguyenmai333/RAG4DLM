@@ -1,0 +1,63 @@
+URL: https://mybk.hcmut.edu.vn/app/public/van-bang
+Depth: 1
+Title: Phòng Đào tạo | Academic Affairs Office
+
+Tra cứu thông tin văn bằng
+Số hiệu bằng
+Họ và tên
+Tra
+Hướng dẫn tra cứu
+Thao tác thực hiện:
+Nhập số hiệu bằng và họ tên,
+hai thông tin này là bắt buộc.
+Số hiệu bằng:
+Không phân biệt hoa
+thường, có dấu hoặc không dấu đều được. Ví dụ format số hiệu bằng:
+Văn bằng cao đẳng, đại học. VD:
+QH00000000000, BB0000, B00000
+hoặc BB00000/……….
+Văn bằng thạc sĩ. VD:
+QH00000000000, BM:00000/00KH0, BM
+00000/00KH0, BM: 00000/00KH0, BM:00000/00KH0/0000
+Văn bằng tiến sĩ. VD:
+QS:00000/00KH0/0000, QS: 00000/00KH0/0000,
+QH00000000000
+Họ và tên:
+Không phân biệt hoa
+thường, có dấu hoặc không dấu đều được. VD:
+Lê Tấn Lộc
+hoặc
+LE TAN LOC
+.
+Nhấn nút
+Tra
+để tra thông tin.
+Sau khi nhấn nút tra
+Tìm thấy thông tin:
+Hệ thống sẽ hiển thị lên cửa sổ thông tin bằng tốt nghiệp.
+Không tìm thấy thông tin:
+Hệ thống sẽ hiện lên thông báo "Không tìm thấy thông tin". Trường hợp này vui lòng làm theo hướng dẫn mục 3.
+Hệ thống hỗ trợ tra cứu:
+Văn bằng đại học, hệ chính quy
+: Tốt nghiệp từ
+11/2001
+đến nay.
+Văn bằng đại học, hệ vừa làm vừa học
+: Tốt nghiệp từ
+04/2010
+đến nay.
+Văn bằng thạc sĩ
+: Tốt nghiệp từ
+2007
+đến nay.
+Văn bằng tiến sĩ
+: Tốt nghiệp từ
+2018
+đến nay.
+Với các trường hợp tra cứu không tìm thấy thông tin hoặc ngoài mục 2., vui lòng liên hệ để được hỗ trợ:
+Văn bằng đại học:
+Phòng Đào tạo trường Đại học Bách khoa - ĐHQG HCM tại địa chỉ
+pdt@hcmut.edu.vn
+Văn bằng thạc sĩ, tiến sĩ:
+Phòng Đào tạo sau đại học trường Đại học Bách khoa - ĐHQG HCM tại địa chỉ
+sdh@hcmut.edu.vn

@@ -1,0 +1,93 @@
+URL: https://hcmut.edu.vn/virtual-tour
+
+<!DOCTYPE html><html lang="vi"><head>
+    <title>Trường đại học Bách Khoa</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <link rel="preload" href="script_general.js?v=1730274618127" as="script"><script src="lib/tdvplayer.js?v=1730274618127"></script>
+    <link rel="shortcut icon" href="favicon.ico?v=1730274618127">
+	<link rel="icon" sizes="48x48 32x32 16x16" href="favicon.ico?v=1730274618127">
+	<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="misc/icon180.png?v=1730274618127">
+	<link rel="icon" type="image/png" sizes="16x16" href="misc/icon16.png?v=1730274618127">
+	<link rel="icon" type="image/png" sizes="32x32" href="misc/icon32.png?v=1730274618127">
+	<link rel="icon" type="image/png" sizes="192x192" href="misc/icon192.png?v=1730274618127">
+	<link rel="manifest" href="manifest.json?v=1730274618127">
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-config" content="browserconfig.xml">
+	<link rel="preload" href="locale/vi.txt?v=1730274618127" as="fetch" crossorigin="anonymous">
+	<link rel="preload" href="script.js?v=1730274618127" as="script">
+	<link rel="preload" href="media/panorama_FC507901_F310_3DC0_41D6_1CF0475D6311_0/r/3/0_0.jpg?v=1730274618127" as="image">
+	<link rel="preload" href="media/panorama_FC507901_F310_3DC0_41D6_1CF0475D6311_0/l/3/0_0.jpg?v=1730274618127" as="image">
+	<link rel="preload" href="media/panorama_FC507901_F310_3DC0_41D6_1CF0475D6311_0/u/3/0_0.jpg?v=1730274618127" as="image">
+	<link rel="preload" href="media/panorama_FC507901_F310_3DC0_41D6_1CF0475D6311_0/d/3/0_0.jpg?v=1730274618127" as="image">
+	<link rel="preload" href="media/panorama_FC507901_F310_3DC0_41D6_1CF0475D6311_0/f/3/0_0.jpg?v=1730274618127" as="image">
+	<link rel="preload" href="media/panorama_FC507901_F310_3DC0_41D6_1CF0475D6311_0/b/3/0_0.jpg?v=1730274618127" as="image">
+	<script src="https://remote.3dvista.com/lib/tdvremote-beta.js?v=1730274618127" type="text/javascript"></script><style>.wuInAUlB4S2B28G274MtP                  { bottom:0 !important; height:auto !important; left:0 !important; margin:0 !important; pointer-events:none !important; position:absolute !important; right:0 !important; text-align:left !important; top:0 !important; width:auto !important; z-index:10 !important; }
+.wuInAUlB4S2B28G274MtP > *              { pointer-events:initial; }
+.wuInAUlB4S2B28G274MtP                  { --tdvvmin: 1vmin; }
+@media only screen and (min-width: 1000px) and (min-height:1000px) {
+    .wuInAUlB4S2B28G274MtP                  { --tdvvmin: 10px; }
+}
+
+.wuInAUlB4S2B28G274MtP,
+.wuInAUlB4S2B28G274MtP button, 
+.wuInAUlB4S2B28G274MtP textarea, 
+.wuInAUlB4S2B28G274MtP input            { font-family:'Open Sans', 'Arial', sans-serif; font-size:14px; }
+.wuInAUlB4S2B28G274MtP button           { background:none; border:none; box-sizing:border-box; cursor:pointer; padding:0; }
+.wuInAUlB4S2B28G274MtP button:focus     { outline:0; }
+.wuInAUlB4S2B28G274MtP textarea:focus, 
+.wuInAUlB4S2B28G274MtP input:focus      { outline-color: #008dca;}
+
+
+@keyframes tdv_remote_fade_in                                   { from { opacity: 0; }  }
+.wuInAUlB4S2B28G274MtP .flicker                                     { animation: tdv_remote_fade_in 0.75s infinite alternate; }</style><style>div._31XmcsCF8_lRFsUEwGhUJV              { padding: 0 calc(1.5 * var(--tdvvmin)) 0 calc(2.25 * var(--tdvvmin)); position:absolute; }
+.tdv_mobile ._31XmcsCF8_lRFsUEwGhUJV  { top:calc(1 * var(--tdvvmin)); }
+._31XmcsCF8_lRFsUEwGhUJV.initial      { left:50%; top:calc(2 * var(--tdvvmin)); transform:translate(-50%, 0); }</style><style>.tdv_mobile ._3mrr-76GrvD_9MwoiiWnVW                            { --tdvvmin: 2.44vmin; }
+._3mrr-76GrvD_9MwoiiWnVW                                        { background-color:#fff; border-radius:calc(0.5 * var(--tdvvmin)); box-sizing:border-box; box-shadow:0px 0px 6px 0px rgba(0,0,0,0.5); height:calc(4.8 * var(--tdvvmin)); padding:0 calc(1.5 * var(--tdvvmin)); white-space:nowrap; }
+._3mrr-76GrvD_9MwoiiWnVW > *                                    { vertical-align:middle; }
+._3mrr-76GrvD_9MwoiiWnVW .text                                  { display:inline-block; font-size:calc(1.35 * var(--tdvvmin)); line-height:calc(4.8 * var(--tdvvmin)); margin:0 calc(0.5 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW button.text                            { background-color:#008dca; border-radius:calc(0.5 * var(--tdvvmin)); color:#fff; font-size:calc(1.4 * var(--tdvvmin)); height:calc(2.7 * var(--tdvvmin)); line-height:calc(1.2 * var(--tdvvmin)); padding:0 calc(1 * var(--tdvvmin)); position:relative; }
+._3mrr-76GrvD_9MwoiiWnVW .icon                                  { box-sizing:border-box; display:inline-block; position:relative; height:calc(4.8 * var(--tdvvmin)); padding:calc(0.5 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .icon:focus                            { outline:0; }
+._3mrr-76GrvD_9MwoiiWnVW .icon svg                              { display:block; }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown                              { display:inline-block; position: relative; }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown .dropdown-arrow              { position:absolute; bottom:calc(0.2 * var(--tdvvmin)); left:50%; transform:translate(-50%, -50%); width:calc(0.9 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown .dropdown-arrow polyline     { fill:none; stroke:#b2b2b2; }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown .items                       { background-color:#ffffff; box-shadow:0px 0px calc(0.5 * var(--tdvvmin)) 0px rgba(0,0,0,0.5); display:none; left:50%; padding:calc(0.75 * var(--tdvvmin)) 0; position:absolute; text-align:center; top:calc(4.8 * var(--tdvvmin)); transform:translate(-50%, 0); }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown .items::before               { background-color:#ffffff; content:' '; position:absolute; top:-calc(0.5 * var(--tdvvmin)); left:0; right:0; height:calc(0.5 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown:hover .items                 { display: block; }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown .items .icon                 { display:block; height:calc(3.75 * var(--tdvvmin)); width:calc(5 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown .items button[disabled],
+._3mrr-76GrvD_9MwoiiWnVW .dropdown .items button:disabled       { opacity:0.5; pointer-events:none; }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown .items .icon svg             { display:inline-block; left:50%; position:absolute; top:50%; transform:translate(-50%,-50%); }
+._3mrr-76GrvD_9MwoiiWnVW .icon.disconnect svg.disconnect        { display:none; }
+.tdv_hover ._3mrr-76GrvD_9MwoiiWnVW .icon.disconnect:hover svg.connect     { display:none; }
+.tdv_hover ._3mrr-76GrvD_9MwoiiWnVW .icon.disconnect:hover svg.disconnect  { display:inline-block; }
+._3mrr-76GrvD_9MwoiiWnVW .icon.host-state                       { height:calc(4.8 * var(--tdvvmin)); width:calc(3.35 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.agent                              { left:50%; position:absolute; top:50%; transform:translate(-50%, -57%); width:calc(2.23 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .icon.user                             { background-color:#008dca; border-radius:calc(1.28 * var(--tdvvmin)); padding:0; height:calc(2.57 * var(--tdvvmin)); width:calc(2.57 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .icon.user svg                         { left:50%; position:absolute; top:50%; transform:translate(-50%, -55%); width:calc(1.4 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .icon.user svg path                    { fill:#ffffff; }
+._3mrr-76GrvD_9MwoiiWnVW .icon.host-available svg path          { fill:#8cc63f; }
+._3mrr-76GrvD_9MwoiiWnVW .icon.host-busy svg path               { fill:#c1272d; }
+._3mrr-76GrvD_9MwoiiWnVW svg.camera                             { width:calc(1.9 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .accept-call svg.phone-call.svg        { transform:scale(-1, 1);  }
+._3mrr-76GrvD_9MwoiiWnVW svg.phone-call                         { width:calc(1.9 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.phone-hang-up                      { width:calc(2.34 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.disconnect                         { width:calc(2.12 * var(--tdvvmin)); margin-top:calc(0.5 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.connect                            { width:calc(1.25 * var(--tdvvmin)); margin:0 calc(0.435 * var(--tdvvmin)); transform:translate(0, 5%);  }
+._3mrr-76GrvD_9MwoiiWnVW svg.busy                               { width:calc(2.3 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.party                              { width:calc(2.57 * var(--tdvvmin)); transform:translate(0, 5%); }
+._3mrr-76GrvD_9MwoiiWnVW svg.request-to-talk                    { width:calc(1.84 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW .dropdown.tracking .items .notification { display:none; }
+._3mrr-76GrvD_9MwoiiWnVW svg.track,
+._3mrr-76GrvD_9MwoiiWnVW svg.interaction-lock                               { width:calc(2.3 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.interaction-lock  .notification,
+._3mrr-76GrvD_9MwoiiWnVW svg.track .notification                { opacity:0; }
+._3mrr-76GrvD_9MwoiiWnVW svg.track-guest                        { width:calc(2.8 * var(--tdvvmin)); transform:translate(0, -9%); }
+._3mrr-76GrvD_9MwoiiWnVW svg.arrows                             { width:calc(1.79 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.eye                                { width:calc(2.75 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.presentation                       { width:calc(2.6 * var(--tdvvmin)); }
+._3mrr-76GrvD_9MwoiiWnVW svg.help                               { width:calc(1.

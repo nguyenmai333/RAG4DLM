@@ -1,0 +1,23 @@
+URL: https://hcmut.edu.vn/auth/cas?route=%2Fuser
+Depth: 2
+Title: HCMUT – Central Authentication Service
+
+Enter your Username and Password
+U
+sername
+P
+assword
+W
+arn me before logging me into other sites.
+Change password?
+Languages
+Vietnamese
+English
+Please note
+The Login page enables single sign-on to multiple websites at HCMUT. This means that you only have to enter your user name and password once for websites that subscribe to the Login page.
+You will need to use your HCMUT Username and password to login to this site. The "HCMUT" account provides access to many resources including the HCMUT Information System, e-mail, ...
+For security reasons, please Exit your web browser when you are done accessing services that require authentication!
+Technical support
+E-mail:
+support@hcmut.edu.vn
+Tel: (84-8) 38647256 - 5200

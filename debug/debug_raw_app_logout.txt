@@ -1,0 +1,109 @@
+URL: https://mybk.hcmut.edu.vn/app/logout?type=guest
+
+<!DOCTYPE html><html lang="vi"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta name="description" content="Đại học Bách khoa Thành Phố Hồ Chí Minh - Phòng Đào tạo">
+    <meta name="keywords" content="Ho Chi Minh University Technology, Academic Affairs Office">
+    <title>Đăng nhập</title>
+    <!-- Favicon -->
+    <link href="/app/images/favicon.ico" rel="shortcut icon">
+    <link rel="stylesheet" href="/app/css/font-awesome-v6_4_0.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700,300italic,400italic">
+    <style>
+        body {
+            background-color: #f8f8f8;
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        .wrapper {
+            width: 700px;
+            margin: 120px auto;
+            height: 500px;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            gap: 50px;
+        }
+
+        .alert {
+            background: #ffb6b6;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        .logo {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .logo img {
+            width: 160px;
+        }
+
+        .login-option {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            gap: 50px;
+        }
+
+        .login-option .option {
+            width: 200px;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            gap: 15px;
+            padding: 30px;
+            background-color: rgb(255, 216, 90);
+            border-radius: 15px;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .login-option .option:hover {
+            transform: scale(1.1);
+        }
+
+        .login-option .option i {
+            font-size: 50px;
+        }
+
+        .login-option .option span {
+            /* font-weight: bold; */
+        }
+    </style>
+</head>
+<body>
+<div class="wrapper">
+
+    
+    <div class="logo">
+        <img src="/app/asset/img/bk_logo.png" width="160" height="162">
+    </div>
+    <div class="login-option">
+        <a href="/app/login?type=guest" class="option">
+            <i class="fa-regular fa-user"></i>
+            <span>Người dùng khách</span>
+        </a>
+        <a href="/app/login?type=cas" class="option">
+            <i class="fa-solid fa-user"></i>
+            <span>Cán bộ / Sinh viên</span>
+        </a>
+        <a href="/app/oauth2/authorization/google" class="option">
+            <i class="fa-brands fa-google"></i>
+            <span>Google</span>
+        </a>
+    </div>
+</div>
+
+
+
+</body></html>

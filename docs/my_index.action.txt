@@ -1,0 +1,81 @@
+URL: http://mybk.hcmut.edu.vn/my/index.action
+Depth: 2
+Title: My Bach Khoa
+
+NGÔN NGỮ
+CHIA SẺ
+TRANG CHỦ
+Đăng nhập
+|
+Hướng dẫn người dùng
+ỨNG DỤNG CHUNG
+1. Cựu sinh viên
+Cựu sinh viên Đại học, Sau đại học (Ths, TS)
+2. BKPay
+Cổng thanh toán trực tuyến: theo dõi thu nhập cá nhân, thanh toán học phí
+3. Bách Khoa e-learning
+Hệ thống e-learning của ĐHBK Tp.HCM
+4. Thông tin Sinh viên
+Tra cứu, cập nhật thông tin Sinh viên, tra cứu TKB, lịch thi, ... GVCN/Khoa theo dõi lớp, ...
+5. Hoạt động Ngoại khóa SV
+Sàn hoạt động ngoại khóa của SV
+6. Hỗ trợ trực tuyến
+Hổ trợ trực tuyến các vấn đề về học vụ, ...
+7. Đăng ký Anh văn Kỹ năng Nói-Viết
+Đăng ký Dự Kiểm tra Anh văn Kỹ năng Nói-Viết - Điều kiện Tốt nghiệp (BKEnglish)
+8. Email
+Hệ thống e-mail của trường ĐHBK Tp.HCM
+9. Tra cứu Văn bằng Tốt nghiệp SV
+Tra cứu văn bằng tốt nghiệp do nhà trường cấp
+10. Đăng ký xét tuyển ĐH-CĐ
+Thí sinh đăng ký dự tuyển ĐH-CĐ vào trường ĐH Bách Khoa
+11. Nhập học
+LL nhập học, kích hoạt BKNetID
+12. Đăng ký mua sách, giáo trình
+Đăng ký mua sách, giáo trình
+ỨNG DỤNG CHO GIẢNG VIÊN
+1. Hỗ trợ Giảng dạy
+Giảng viên xem TKB, đăng ký nghỉ dạy/dạy bù/dạy thay
+2. Nhập điểm trực tuyến
+Giảng viên nhập điểm trực tuyến từ
+3. Hỗ trợ Quản lý Giảng dạy
+Hệ thống hổ trợ Phân công giảng dạy, Khối lượng giảng dạy, ...
+4. Dashboard
+Theo dõi tình hình hoạt động nhà trường
+5. CTDT và ĐCMH trực tuyến
+Chương trìn đào tạo và Đề cương môn học trực tuyến
+6. Đăng ký coi thi
+Đăng ký coi thi/kiểm tra
+ỨNG DỤNG CHO SINH VIÊN
+1. Đăng ký Môn học
+Đăng ký Kế hoạch học tập, Đăng ký môn học, ...
+2. Đăng ký in Thẻ Sinh viên
+Đăng ký in thẻ Sinh viên mới khi bị mất thẻ
+3. Đăng ký in Bảng điểm
+Đăng ký in bảng điểm (Bảng điểm chưa tốt nghiệp, Học bạ)
+4. Đăng ký nộp Chứng chỉ Ngoại ngữ
+Đăng ký thông tin chứng chỉ ngoại ngữ để đăng ký chuyển điểm các môn Ngoại ngữ (AV1,AV2,AV3,AV4) hoặc để thỏa điều kiện nhận LVTN, điều kiện Tốt nghiệp
+5. Đăng ký in Giấy xác nhận SV
+Đăng ký in Giấy xác nhận SV dùng hoàn tất hồ sơ tạm hoãn NVQS tại địa phương hoặc các công việc khác.
+6. Đăng ký Tốt nghiệp
+Sinh viên đăng ký tốt nghiệp, khai báo Lý lịch tốt nghiệp. Các SV không đăng ký Tốt nghiệp sẽ không được cấp Quyết định Tốt nghiệp, cấp Bằng.
+7. Đăng ký Phúc tra điểm bài thi cuối kỳ
+Đăng ký Phúc tra điểm bài thi cuối kỳ
+8. Đăng ký Tham gia BHYT, BHTN SV
+Đăng ký Tham gia Bảo hiểm Y tế, Bảo hiểm Tai nạn của Sinh viên
+9. Đăng ký kiểm tra trình độ tiếng Anh
+Đăng ký kiểm tra trình độ tiếng Anh
+10. Đăng ký hoãn thi cuối kì
+Đăng ký hoãn thi cuối kì
+11. Rút môn học
+Rút môn học
+12. Đăng ký thông tin văn bằng
+Đăng ký thông tin văn bằng
+13. Chứng chỉ công nghệ thông tin
+Certificate of Information Technology
+Copyright@2014. Phòng Đào tạo - Đại học Bách Khoa TPHCM.
+facebook
+pintrest
+google
+twitter
+linkedin
